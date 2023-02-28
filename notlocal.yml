@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: ansible
   connection: local
   become: true
 
